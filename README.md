@@ -1,2 +1,2 @@
 # Challenge-Amigo-Secreto
-Implementación de juego sorte de amigo secreto
+Implementación de juego sorteo de amigo secreto
