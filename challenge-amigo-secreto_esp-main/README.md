@@ -1,6 +1,6 @@
 # Challenge-Amigo-Secreto
 
-Implementación de juego sorteo de amigo secreto
+<em> # ¿Cómo se juega? </em>
 
 Para poder comenzar a jugar, se deben seguir los siguientes pasos:
 
